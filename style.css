@@ -404,9 +404,9 @@ h3{
 }
 
 .red-btn{
-    border: 1px solid #f44336;
+    border: 1px solid #EE0701;
     background: transparent;
-    color: #f44336;
+    color: #EE0701;
 }
 
 .red-btn:hover{
@@ -432,7 +432,7 @@ h3{
 }
 
 #blog-left p{
-    color: #999;
+    color: #996B6A;
     padding : 0;
 }
 
