@@ -634,8 +634,15 @@ html {
     .row{
         flex-direction: column;
     }
+
+    .avis-col{
+        flex-direction: column;
+        padding: 15px;
+    }
     
     .avis-col img {
+        height: 30px;
+        width: 30px;
         margin-right: 0px;
         margin-right: 15px;
         border-radius: 50%;
