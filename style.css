@@ -560,12 +560,12 @@ html {
     background-color: #555;
   }
 
-#wireframe {
+#wireframes {
     width: 80%;
     margin: auto;
 }
 
-#wireframe img{
+#wireframes img{
     width: 25rem;
 }
   
@@ -656,7 +656,7 @@ html {
         font-size: 20px;
     }
 
-    #wireframe img{
+    #wireframes img{
         width: 15rem;
     }
 }
