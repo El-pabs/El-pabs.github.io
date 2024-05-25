@@ -3,7 +3,7 @@ Hello there !
 
 If you are looking at this, that probably means you are curious about my code, and that's great !
 
-The best way to learn is by **searching how something works !!**
+The best way to learn is by ##searching how something works !!##
 Please __don't just dumbly copy what i did__, it would simply ruin the point of learning you know.
 
 If you have any question, don't hesitate to send me a dm on my discord account : el_pablo__
