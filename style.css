@@ -523,8 +523,7 @@ h3 {
     text-align: left;
 }
 
-.comment-form input,
-.comment-box textarea {
+.comment-form input, .comment-box textarea {
     width: 100%;
     padding: 10px;
     margin: 15px 0;
